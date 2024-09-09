@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Laurent.<br><br>👀 I’m interested in software development and cyber security.<br>🌱 I’m currently learning React, cyber security, NodeJs, dart with flutter, python and web3 development.<br>⚡ Fun fact: hit me up for any challenge.<br>😍
+👋 Hi, I’m Laurent.<br><br>👀 I’m a Software Developer and Cyber Security Engineer and Researcher.<br>🌱 I’m currently learning React, advancing in cyber security, NodeJs, dart with flutter, python and web3 development.<br>⚡ Fun fact: hit me up for any challenge.<br>😍
 
 
 # 💻 Tech Stack:
